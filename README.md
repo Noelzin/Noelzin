@@ -1,5 +1,5 @@
 <div class="Saltyyy" style="display: inline_block">
-    <h1><img src="https://cdn.discordapp.com/attachments/850441449661399051/896106095645442098/BRABU_waifu2x_art_noise3_tta_1.png" height= 110px;></h1>
+    <h1><img src="https://images.emojiterra.com/google/android-11/512px/1fa78.png" height= 110px;></h1>
     <a href="https://github.com/UserWhare">
   </a>
 </div>
