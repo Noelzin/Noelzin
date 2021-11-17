@@ -16,7 +16,7 @@
 </div>
 <div class="Social" style="display: inline_block">
     <h4>Blood</h4>
-    <a href="dsc.bio/Noelzin"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://discords.com/bio/p/Noelzin"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <a href="https://twitter.com/five_noel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     <a href="https://www.youtube.com/channel/UCKKB74YkQjqgJPSAe5rY7jA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a>
